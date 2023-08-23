@@ -17,15 +17,15 @@ ol {list-style-type:decimal;}
 
 /* Sections */
 #header {
-    background-color: pink;
+    background-color: hotpink;
 }
 
 #main {
-    background-color: lightblue;
+    background-color: pink;
 }
 
 #footer {
-    background-color: lavender;
+    background-color: lightpink;
 }
 
 
