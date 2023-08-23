@@ -1,0 +1,7 @@
+Inicio
+
+Esto se creo con la rama de funcionalidad: feature/rama-ernesto-funcionalidad
+
+Correcion del archivo con la rama: bugfix/rama-trabajo-ernesto
+
+Fin
